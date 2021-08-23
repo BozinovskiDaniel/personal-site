@@ -1,58 +1,72 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Javascript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/javascript.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "React",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Node",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/node.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Redux",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/redux.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "HTML",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/html.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "CSS",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "AWS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/sql.jpeg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Machine Learning",
+      "image": {
+        "src": "../../images/ml.png",
         "alt": ""
       }
     }

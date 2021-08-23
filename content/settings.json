@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "BozinovskiDaniel" },
+    "logo": { "text": "Daniel" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

@@ -2,46 +2,92 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "💡 Algorithm Visualiser",
+      "title": "AlgoVisualise",
+      "description": "React JS Application for visualising Path Finding & Sorting Algorithms, including Dijkstra's, A*, Breadth First Search, Depth First Search and Greedy BFS.",
+      "tags": ["React JS", "Javascript", "Path-Finding", "Sorting"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "src": "../../images/algov.png",
+        "alt": "Algorithm Visualiser"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/BozinovskiDaniel/AlgoVisualise"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://5ec7616dce81309552610cd1--wonderful-shaw-b4b1f9.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "⚕️ Medical Image Classification",
+      "title": "Pneumonia Classifier",
+      "description": "Project that attempts to accurately detect signs of Pneumonia in patients CT-scans, utilising an ensemble of standard models such as Boosted Classifiers/Random forests and a variety of Deep Learning models including Convolutional Neural Networks and MobileNet w/ Transfer Learning.",
+      "tags": ["Python", "Deep Learning", "Image Classification"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/pneumonia-clf.jpg",
+        "alt": "Image classification"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/BozinovskiDaniel/Pneumonia-Imaging-Classifier"
+        },
+        {
+          "type": "external",
+          "url": "pneumonia-classification/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "✈️ Holiday Planning Application",
+      "title": "VoyIt",
+      "description": "Full-stack application that allows users to enter a location, add hotels, attractions and experiences to create an Itinerary for their holiday",
+      "tags": ["React JS", "Trip-advisor API", "Redux"],
+      "image": {
+        "src": "../../images/voyit.png",
+        "alt": "Holiday Planning Application"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/BozinovskiDaniel/VoyIt"
+        },
+        {
+          "type": "external",
+          "url": "https://www.youtube.com/watch?v=N-91mkDlMCI&feature=youtu.be&ab_channel=DanielBozinovski"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🏢 Hotel Booking",
+      "title": "Hotel CoCo",
+      "description": "Front-end application for a hotel booking website (No backend)",
+      "tags": ["HTML", "CSS", "jQuery", "SASS"],
+      "image": {
+        "src": "../../images/hotelcoco.png",
+        "alt": "Hotel Booking Frontend"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/BozinovskiDaniel/Hotel-CoCo"
+        },
+        {
+          "type": "external",
+          "url": "https://bozinovskidaniel.github.io/Hotel-CoCo/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "See More on Github",
+    "url": "https://github.com/bozinovskidaniel"
   }
 }

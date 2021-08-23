@@ -1,14 +1,8 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Image of Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello! I’m <b><i>Daniel Bozinovski.</i></b> Software Engineer based in Sydney, Australia. I have experience building Full-stack software applications and am currently pursuing to expand my knowledge in Data Science and Machine Learning.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I'm a final year <b>Computer Science</b> student at the <b>University of New South Wales</b>, averaging a Distinction grade. I am also pursuing my <b>Master's in Data Science</b> at UNSW next year.

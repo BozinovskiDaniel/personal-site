@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "title": "Daniel Bozinovski",
+    "titleTemplate": "%s · BozinovskiDaniel",
+    "description": "Daniel Bozinovski's Portfolio Website",
+    "author": "Daniel Bozinovski",
+    "avatar": "../content/images/me-cropped.jpg",
+    "bio": "An Avid Software Engineer & Aspiring Data Scientist!",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/BozinovskiDaniel",
@@ -17,13 +17,13 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "BozinovskiDaniel" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,

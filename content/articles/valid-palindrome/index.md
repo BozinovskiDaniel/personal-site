@@ -63,9 +63,10 @@ class Solution(object):
         newS = ""
 
         # Remove non-alphanumeric chars
+        # Remove letter casing
         for c in s:
             if c.isalnum():
-                newS += c.lower() # Add char if alphanumeric (lower case to ignore case)
+                newS += c.lower()
 
 
         left = 0

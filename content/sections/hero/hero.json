@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Daniel Bozinovski!",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "An Avid ",
+    "highlight": "Software Engineer",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I enjoy Machine Learning & building Full-stack software applications.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Medium", "Mail"],
+    "showIcons": true
   }
 }

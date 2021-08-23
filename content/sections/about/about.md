@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/me-cropped.jpg
+imageSrc: "../../images/me-cropped.jpg"
 imageAlt: "Image of Me"
 ---
 

@@ -20,7 +20,7 @@
     "logo": { "text": "Daniel." },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        // { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
@@ -37,7 +37,7 @@
     "featureToggles": {
       "useDarkModeAsDefault": false,
       "useDarkModeBasedOnUsersPreference": true,
-      "useCookieBar": false
+      "useCookieBar": true
     }
   }
 }

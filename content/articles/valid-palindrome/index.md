@@ -92,8 +92,9 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        s = ''.join(char for char in s if char.isalnum()) # Only add if char is alpha numeric
+        # Only add if char is alpha numeric
+        s = ''.join(char for char in s if char.isalnum())
         s = s.lower() # Convert to lower case
 
-        return s == s[::-1] # Return true if the reverse of the string is equal to the forward string
+        return s == s[::-1] # Check
 ```

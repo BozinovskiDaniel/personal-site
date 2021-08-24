@@ -1,5 +1,5 @@
 ---
-title: "Valid Palindrome Interview Question (Easy)"
+title: "Valid Palindrome (Easy)"
 description: "This is Leetcode's Valid Palindrome Interview Question"
 date: "2021-08-24"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'Photo by <u><a href="https://leetcode.com/">Leetcode</a></u>'
 categories:
-  - "Interview Question"
+  - "Interview Question (Easy)"
 keywords:
   - "Python"
   - "Leetcode"

@@ -1,7 +1,7 @@
 ---
 title: "Maximum Subarray (Easy)"
-description: "This is Leetcode's Valid Palindrome Interview Question"
-date: "2021-08-24"
+description: "This is Leetcode's Maximum Subarray Interview Question"
+date: "2021-08-25"
 banner:
   src: "../../images/leetcode.jpeg"
   alt: "Leetcode"
@@ -82,6 +82,10 @@ class Solution(object):
 
         return maxSum
 ```
+
+<hr>
+
+#### Solution Explanation
 
 We can see that within the code, we only used a single for loop.
 

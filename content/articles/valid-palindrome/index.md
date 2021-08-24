@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'Photo by <u><a href="https://leetcode.com/">Leetcode</a></u>'
 categories:
-  - "Interview Question (Easy)"
+  - "Interview Question"
 keywords:
   - "Python"
   - "Leetcode"

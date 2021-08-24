@@ -1,5 +1,5 @@
 ---
-title: "Two Sum"
+title: "Two Sum (Easy)"
 description: "This is Leetcode's Two Sum Interview Question"
 date: "2021-08-23"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Pneumonia Image Classification"
   caption: 'Photo by <u><a href="https://leetcode.com/">Leetcode</a></u>'
 categories:
-  - "Interview Question (Easy)"
+  - "Interview Question"
 keywords:
   - "Python"
   - "Leetcode"

@@ -5,7 +5,7 @@ date: "2021-08-25"
 banner:
   src: "../../images/leetcode.jpeg"
   alt: "Leetcode"
-  caption: 'You can find the problem <u><a href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
+  caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
 categories:
   - "Interview Question"
 keywords:

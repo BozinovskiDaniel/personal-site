@@ -5,7 +5,7 @@ date: "2021-08-23"
 banner:
   src: "../../images/leetcode.jpeg"
   alt: "Pneumonia Image Classification"
-  caption: 'Photo by <u><a href="https://leetcode.com/">Leetcode</a></u>'
+  caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/two-sum/">Here</a></u>'
 categories:
   - "Interview Question"
 keywords:

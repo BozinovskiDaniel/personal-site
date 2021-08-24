@@ -5,7 +5,7 @@ date: "2021-08-25"
 banner:
   src: "../../images/leetcode.jpeg"
   alt: "Leetcode"
-  caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
+  caption: 'You can find the problem on Leetcode <u><a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
 categories:
   - "Interview Question"
 keywords:
@@ -18,7 +18,7 @@ keywords:
 
 ## Problem
 
-Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+Given an integer array nums, find the <b>contiguous subarray</b> (containing at least one number) which has the <b>largest sum</b> and return its sum.
 
 A subarray is a <b>contiguous</b> part of an array.
 
@@ -58,7 +58,7 @@ So we essentially have to find a sub-array within the given nums array that give
 
 #### Approach: Kadane's Algorithm
 
-We realise that to solve this problem in linear time O(n), we can apply Kadane's algorithm which will allow us to find the sub-array with the maximum sum within a single iteration over the array.
+We realise that to solve this problem in linear time <b>O(n)</b>, we can apply Kadane's algorithm which will allow us to find the sub-array with the maximum sum within a single iteration over the array.
 
 The solution is explained below:
 
@@ -90,12 +90,21 @@ class Solution(object):
 We can see that within the code, we only used a single for loop.
 
 - We initially set the maxSum to be the first element and the current sum to also be this first element
+
+<br>
+
 - We then iterated over the rest of the array and performed the following operations:
   - We take the max between:
     - The current element nums[i] vs
     - The sum of the current element (nums[i]) and the sum of the previous elements (that are currently in the sub-array)
   - This step allows us to check whether we begin a new contiguous sub-array (currSum = nums[i]) or continue with our previous sub-array (currSum = nums[i] + currSum)
+
+<br>
+
 - Now that we've decided to either continue our contiguous sub-array or start a new one, we can now check if the sum of the current sub-array is larger than the maxSum
   - If so, we update it
   - If not, we continue iterating
+
+<br>
+
 - After we've reached the end of the array of nums, we just return the maxSum variable, as it will hold the greatest sum of all the contiguous sub-arrays in nums.

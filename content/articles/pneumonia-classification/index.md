@@ -1,5 +1,5 @@
 ---
-title: "Pneumonia Medical Imaging Classification using Python"
+title: "Medical Image Classification"
 description: "This description will be used for the article listing and search results on Google."
 date: "2021-08-22"
 banner:

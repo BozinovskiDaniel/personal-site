@@ -1,5 +1,5 @@
 ---
-title: "Maximum Subarray (Easy)"
+title: "Max Subarray (Easy)"
 description: "This is Leetcode's Maximum Subarray Interview Question"
 date: "2021-08-25"
 banner:

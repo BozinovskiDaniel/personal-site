@@ -1,5 +1,5 @@
 ---
-title: "Maximum Depth of Binary Tree (Easy)"
+title: "Max Depth of Binary Tree (Easy)"
 description: "This is Leetcode's Maximum Depth of Binary Tree Interview Question"
 date: "2021-08-26"
 banner:

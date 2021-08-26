@@ -1,5 +1,5 @@
 ---
-title: "Longest Substring w/o Duplicates"
+title: "Longest Substring w/o Dups"
 description: "This is Leetcode's Longest Substring without Repeating Characters Interview Question"
 date: "2021-08-27"
 banner:

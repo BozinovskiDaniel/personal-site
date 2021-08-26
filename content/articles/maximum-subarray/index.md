@@ -1,5 +1,5 @@
 ---
-title: "Max Subarray (Easy)"
+title: "Max Subarray"
 description: "This is Leetcode's Maximum Subarray Interview Question"
 date: "2021-08-25"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
 categories:
-  - "Interview Question"
+  - "Easy Question"
 keywords:
   - "Python"
   - "Leetcode"

@@ -1,5 +1,5 @@
 ---
-title: "Longest Substring (Medium)"
+title: "Longest Substring w/o Duplicates"
 description: "This is Leetcode's Longest Substring without Repeating Characters Interview Question"
 date: "2021-08-27"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Here</a></u>'
 categories:
-  - "Interview Question"
+  - "Medium Question"
 keywords:
   - "Python"
   - "Leetcode"

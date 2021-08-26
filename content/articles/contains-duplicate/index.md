@@ -1,5 +1,5 @@
 ---
-title: "Contains Duplicate (Easy)"
+title: "Contains Duplicate"
 description: "This is Leetcode's Contains Duplicate Interview Question"
 date: "2021-08-27"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/contains-duplicate/">Here</a></u>'
 categories:
-  - "Interview Question"
+  - "Easy Question"
 keywords:
   - "Python"
   - "Leetcode"

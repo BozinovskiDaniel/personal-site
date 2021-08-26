@@ -1,5 +1,5 @@
 ---
-title: "Max Depth of Binary Tree (Easy)"
+title: "Max Depth of Binary Tree"
 description: "This is Leetcode's Maximum Depth of Binary Tree Interview Question"
 date: "2021-08-26"
 banner:
@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Here</a></u>'
 categories:
-  - "Interview Question"
+  - "Easy Question"
 keywords:
   - "Python"
   - "Leetcode"

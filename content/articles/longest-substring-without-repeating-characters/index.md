@@ -1,5 +1,5 @@
 ---
-title: "Longest Substring w/o Repeating Chars (Medium)"
+title: "Longest Substring w/o Dups (Medium)"
 description: "This is Leetcode's Longest Substring without Repeating Characters Interview Question"
 date: "2021-08-27"
 banner:
@@ -71,12 +71,9 @@ This approach is implemented by first initialising our hashmap, our current max 
 We then begin looping with a while loop, checking if the right pointer is less than the length of the string.
 We then check if the letter at index right is in the hashmap:
 
-    - If it isn't in the hash map:
-        - We save it to the hash map, and
-        - We also update the current maximum string which will be the max between the current max value and the current maximum string
-        - We then increment right
-    - Else, if the letter is already in the hash-map, this means that we now have a repeated character:
-        - We now just remove the initial occurence of this letter with the left pointer and increment it
+If it isn't in the hash map, we save it to the hash map, and also update the current maximum string which will be the max between the current max value and the current maximum string, whilst increment the right pointer.
+
+Else, if the letter is already in the hash-map, this means that we now have a repeated character. Hence, we now just remove the initial occurence of this letter with the left pointer and increment it.
 
 We finally just return the maximum string length
 

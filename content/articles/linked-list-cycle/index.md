@@ -1,7 +1,7 @@
 ---
 title: "Linked List Cycle"
 description: "This is Leetcode's Linked List Cycle Interview Question"
-date: "2021-08-27"
+date: "2021-08-28"
 banner:
   src: "../../images/leetcode.jpeg"
   alt: "Leetcode"

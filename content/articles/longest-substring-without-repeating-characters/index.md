@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Here</a></u>'
 categories:
-  - "Medium Question"
+  - "String"
 keywords:
   - "Python"
   - "Leetcode"

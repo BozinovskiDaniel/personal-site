@@ -7,7 +7,7 @@ banner:
   alt: "Pneumonia Image Classification"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/two-sum/">Here</a></u>'
 categories:
-  - "Easy Question"
+  - "Array"
 keywords:
   - "Python"
   - "Leetcode"

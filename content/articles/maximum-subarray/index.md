@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Here</a></u>'
 categories:
-  - "Easy Question"
+  - "Array"
 keywords:
   - "Python"
   - "Leetcode"

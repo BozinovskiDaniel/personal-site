@@ -7,7 +7,7 @@ banner:
   alt: "Leetcode"
   caption: 'You can find the problem <u><a target="_blank" href="https://leetcode.com/problems/valid-palindrome/">Here</a></u>'
 categories:
-  - "Easy Question"
+  - "String"
 keywords:
   - "Python"
   - "Leetcode"

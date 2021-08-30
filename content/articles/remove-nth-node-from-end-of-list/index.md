@@ -1,5 +1,5 @@
 ---
-title: "Remove Nth Node from End of List"
+title: "Remove Nth Node from End"
 description: "This is Leetcode's Remove Nth Node from End of List Interview Question"
 date: "2021-08-30"
 banner:

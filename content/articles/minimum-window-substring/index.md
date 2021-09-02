@@ -66,7 +66,11 @@ There are generally two main approaches to solving this type of problem. One bei
 
 <br>
 
-We can actually solve this in a much more efficient manner (<b>linear time - O(n)</b>) using a sliding window approach, with two pointers `left` and `right`. We essentially create a hash map for countT which represents all the letters in t and how many times each of them appears in t. We then begin our loop by setting our `left` pointer to index 0 and looping from 0 to the length of string s for pointer `right`.
+We can actually solve this in a much more efficient manner (<b>linear time - O(n)</b>) using a sliding window approach, with two pointers `left` and `right`.
+
+#### Approach: Hash map with Sliding Window
+
+We essentially create a hash map for countT which represents all the letters in t and how many times each of them appears in t. We then begin our loop by setting our `left` pointer to index 0 and looping from 0 to the length of string s for pointer `right`.
 
 <br>
 
@@ -81,8 +85,6 @@ We repeat this until we have reached the end of the string with our right pointe
 <br>
 
 At the end, we simply return a substring of s sliced from index `result[0]` to index `result[0] + 1`. We add 1 to accout for the indices of loops starting at 0. We only return this substring if the results length is not `infinity`, else we just return the empty string as a result does not exist.
-
-#### Approach: Hash map with Sliding Window
 
 ```Python
 class Solution(object):

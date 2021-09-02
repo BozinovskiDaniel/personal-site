@@ -31,7 +31,8 @@ A substring is a contiguous sequence of characters within the string.
 ```
 Input: s = "ADOBECODEBANC", t = "ABC"
 Output: "BANC"
-Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
+Explanation: The minimum window substring "BANC" includes:
+'A', 'B', and 'C' from string t.
 ```
 
 #### Example 2

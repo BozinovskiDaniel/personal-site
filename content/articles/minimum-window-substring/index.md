@@ -1,5 +1,5 @@
 ---
-title: "Min Window Substring"
+title: "Minimum Window Substring"
 description: "This is Leetcode's Minimum Window Substring Interview Question"
 date: "2021-09-02"
 banner:
@@ -61,7 +61,7 @@ We essentially need to find the substring of minimum length (which is contiguous
 
 ## Solution
 
-There are generally two main approaches to solving this type of problem. One being looking at every substring and comparing to the minimum length every time which would be classified as the Brute Force method. This method would be extremely slow as its time complexity would be O(n^3).
+There are generally two main approaches to solving this type of problem. One being looking at every substring and comparing to the minimum length every time which would be classified as the <b>Brute Force method</b>. This method would be extremely slow as its time complexity would be <b>O(n<sup>3</sup>)</b>.
 
 <br>
 
@@ -73,7 +73,7 @@ We add each new character to the `currWindow` hash and check if the count of tha
 
 <br>
 
-After this, we perform a while loop which acts to minimise the length of substring by continuing to iterate if the chars we have is equal to the chars we need. If so, we update the current result if the length of the substring is less than the current result length. We then remove the left most character from our currWindow, and if this was apart of countT, we simply decrement the chars that we have.
+After this, we perform a while loop which acts to minimise the length of substring by continuing to iterate if the chars we have is equal to the chars we need. If so, we update the current result if the length of the substring is less than the current result length. We then remove the left most character from our `currWindow`, and if this was apart of `countT`, we simply decrement the chars that we have.
 
 We repeat this until we have reached the end of the string with our right pointer.
 

@@ -10,7 +10,7 @@ export const Hero: FunctionComponent = memo(() => (
         Daniel Bozinovski
       </p>
       <p className="text-base text-white subpixel-antialiased md:text-3xl">
-        Software Engineer
+        Software Engineer @ nib Group
       </p>
       <Links />
     </div>

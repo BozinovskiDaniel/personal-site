@@ -5,3 +5,8 @@
 html, body, #__next {
   @apply h-full
 }
+
+:root {
+  --background: 250 250 249;
+  --foreground: 17 17 17;
+}

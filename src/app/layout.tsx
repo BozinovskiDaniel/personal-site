@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     metadataBase: new URL("https://bozinovskidaniel.com"),
     title: "Daniel Bozinovski | Software Engineer",
     description: "Full Stack Software Engineer with over 3 years industry experience in fast-paced, high output startups recently focusing on the integration of AI & LLMs into software solutions",
+    icons: {
+        icon: "/mountain.png",
+    },
     openGraph: {
         title: "Daniel Bozinovski | Software Engineer",
         description: "Full Stack Software Engineer with over 3 years industry experience in fast-paced, high output startups recently focusing on the integration of AI & LLMs into software solutions",
